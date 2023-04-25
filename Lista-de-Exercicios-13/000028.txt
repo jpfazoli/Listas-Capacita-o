@@ -1,0 +1,14 @@
+[00:25:38] Feita a Consulta no Banco de Dados
+[00:25:38] Iniciado o Processo de Construção do Relatório
+[00:25:38] Verificação da Pasta que será salvo o Relatório
+[00:25:38] Abertura do Relatório com a Função FwMsPrinter():New()
+[00:25:38] Configuração do Tipo de Folha
+[00:25:38] Inicia a Página
+[00:25:38] Imprime o Logotipo da Empresa
+[00:25:38] Imprime o Cabeçalho de dados da Empresa
+[00:25:38] Imprime os Dados do Cliente do Pedido
+[00:25:38] Imprime o Cabeçalho de Itens do Pedido
+[00:25:38] Imprime os Dados do Item 1 do Pedido
+[00:25:38] Imprime os Dados do Item 2 do Pedido
+[00:25:38] Imprime o Totalizador do Pedido
+[00:25:38] Imprime a Mensagem para a Nota do Pedido
